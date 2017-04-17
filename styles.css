@@ -1,4 +1,48 @@
 body {
-	background-color: blue;
-
+	background-color: purple;
+    
 }
+
+
+	 ul{
+  	     border: 1px solid black;
+         padding-top: 50px;
+         padding-right: 30px;
+         padding-bottom: 50px;
+         padding-left: 80px;
+
+       }
+
+
+
+
+ 		em{
+  	     margin-top: 100px;
+         margin-bottom: 100px;
+         margin-right: 150px;
+         margin-left: 80px;
+           }
+
+  footer{
+  	text-align: center;
+  }
+
+  p{background-image: url("https://static.dezeen.com/uploads/2013/10/Vlisco-fashion-exhibition-at-Dutch-Design-Week_dezeen_37.jpg");
+  	
+  }
+
+  li{
+  	font-style: italic;
+  }
+  .color{
+background-color: yellow;
+
+  }
+  a:visited {
+  	color: pink;
+  }
+
+  #word{
+  	text-align:center;
+  	color: yellow;
+  }
